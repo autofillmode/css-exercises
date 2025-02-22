@@ -1,0 +1,19 @@
+.class {
+    background-color: #ED6391;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.class.cool {
+    font-size: 24px;
+}
+
+#uniq {
+    color: blue;
+    font-size: 36px;
+}
+
+#uniq2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
